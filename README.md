@@ -1,5 +1,5 @@
 # MekinaWebsite
-Mekina Car booking website for tesing purpose
+Mekina Car booking website for tesing purpose only!! 
 In order to run the wesite one has to :-
 **Edit the Connection strings in appsettings.json file 
 **create migration 
